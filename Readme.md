@@ -223,9 +223,9 @@ If you have any questions about this project or the material we have covered, pl
 
 <!-- **Good Luck!** -->
 
-!['hello'](./images/OMDB.png) 
+![](./Images/OMDB.png) 
 
-![](./images/Spotify.png)
+![](./Images/Spotify.png)
 
-![](./images/Twitter.png) 
+![](./Images/Twitter.png) 
  
